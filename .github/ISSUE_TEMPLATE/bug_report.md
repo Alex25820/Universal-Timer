@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a bug report to help improve Universal Timer
+about: Report a bug to help improve Universal Timer
 title: ''
 labels: bug
 assignees: ''
