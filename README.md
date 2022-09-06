@@ -9,6 +9,7 @@ I decided to make Universal Timer after wanting to add a timer to one of my Prem
 - Custom Spacer (the : in 00:00)
 - Show/Hide Hours, Minutes and/or Seconds
 - Font Customization (font, style, size)
+- Counter mode (Will work as counter instead of timer)
 - Position
 - Scale
 - Rotation
