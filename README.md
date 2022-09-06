@@ -1,4 +1,4 @@
-# Universal-Timer
+# Universal Timer
 A universal timer for Premiere Pro that can do almost anything.
 
 I decided to make Universal Timer after wanting to add a timer to one of my Premiere Pro projects. After trying many timer templates that I found on the internet I eventually gave up as all the timers I tried seemed to have at least one limitation. Universal Timer is designed to have as few limitations as possible.
