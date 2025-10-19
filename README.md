@@ -21,5 +21,5 @@ To download Universal Timer go to [releases](https://github.com/Alex25820/Univer
 ## Report Bug or Request Feature
 To report a bug or request a new feature go to the [issues](https://github.com/Alex25820/Universal-Timer/issues) panel. Look at the issues that are currently open to see if someone else has already reported the same bug or requested the same feature as you. If not, press the "New issue" button and choose "Bug report" or "Feature request". Once you have described the bug or feature and filled in all the required fields, press the "Submit new issue" button. Congrats, you have now submitted a Bug report or Feature Request. Thanks for your help!
 
-## Free to Use
-You are free to use this timer for personal or commercial use. Credit is not required but it is appreciated.
+## License
+This project is licensed under [CC0 1.0 Universal](https://github.com/Alex25820/Universal-Timer/blob/main/LICENSE). This means you can do whatever you want with the project, commercial or not. No attribution is required but it is appreciated.
