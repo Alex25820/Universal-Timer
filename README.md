@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I no longer own a license for After Effects or Premiere Pro, and I am therefore unable to maintain this repository. For that reason I have decided to archive it. You can still use the Motion Graphics Template but it may stop working for newer versions of Premiere Pro if Adobe makes any breaking changes. This also means that there will be no new features added or bugs patched. If anyone would like to maintain this project, you are free to fork it.
+
 # Universal Timer
 A universal timer for Premiere Pro that can do almost anything.
 
